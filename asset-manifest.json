@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/Blockhouse_React_Tsx_Mui_LandingPage/static/css/main.2c4488ac.css",
-    "main.js": "/Blockhouse_React_Tsx_Mui_LandingPage/static/js/main.6b458f6b.js",
+    "main.css": "/Blockhouse_React_Tsx_Mui_LandingPage/static/css/main.d24db14d.css",
+    "main.js": "/Blockhouse_React_Tsx_Mui_LandingPage/static/js/main.314a3bfc.js",
     "static/js/787.3a39cd02.chunk.js": "/Blockhouse_React_Tsx_Mui_LandingPage/static/js/787.3a39cd02.chunk.js",
     "static/media/asset-bg.png": "/Blockhouse_React_Tsx_Mui_LandingPage/static/media/asset-bg.e6309429a438d246d495.png",
     "static/media/3rdSectionBackground.png": "/Blockhouse_React_Tsx_Mui_LandingPage/static/media/3rdSectionBackground.baa4b36eedc0ed19ce6e.png",
     "static/media/landing-bg.png": "/Blockhouse_React_Tsx_Mui_LandingPage/static/media/landing-bg.97d40ed1f48e70470bbf.png",
     "static/media/footerBg.png": "/Blockhouse_React_Tsx_Mui_LandingPage/static/media/footerBg.bf46e3e9ddf3afe7c87f.png",
+    "static/media/borrowPageBackground.jpg": "/Blockhouse_React_Tsx_Mui_LandingPage/static/media/borrowPageBackground.495ada673b3cb89a7720.jpg",
     "static/media/blockHouseBackground.png": "/Blockhouse_React_Tsx_Mui_LandingPage/static/media/blockHouseBackground.2a753fa1f879617e3760.png",
+    "static/media/mobile_HeroBackgroundImg.png": "/Blockhouse_React_Tsx_Mui_LandingPage/static/media/mobile_HeroBackgroundImg.5e57abb80568dc6b0c9b.png",
     "static/media/asset-lifecycle.png": "/Blockhouse_React_Tsx_Mui_LandingPage/static/media/asset-lifecycle.2e178dc28eb59e861a4c.png",
     "static/media/card1.png": "/Blockhouse_React_Tsx_Mui_LandingPage/static/media/card1.deddaed875b1b57ab9d5.png",
     "static/media/card2.png": "/Blockhouse_React_Tsx_Mui_LandingPage/static/media/card2.737063c2450e169d29a1.png",
@@ -18,12 +20,12 @@
     "static/media/Tick-2.png": "/Blockhouse_React_Tsx_Mui_LandingPage/static/media/Tick-2.4f9bcc80f7af3503c9e5.png",
     "static/media/card6.png": "/Blockhouse_React_Tsx_Mui_LandingPage/static/media/card6.fc40247ef9b7a05d398a.png",
     "index.html": "/Blockhouse_React_Tsx_Mui_LandingPage/index.html",
-    "main.2c4488ac.css.map": "/Blockhouse_React_Tsx_Mui_LandingPage/static/css/main.2c4488ac.css.map",
-    "main.6b458f6b.js.map": "/Blockhouse_React_Tsx_Mui_LandingPage/static/js/main.6b458f6b.js.map",
+    "main.d24db14d.css.map": "/Blockhouse_React_Tsx_Mui_LandingPage/static/css/main.d24db14d.css.map",
+    "main.314a3bfc.js.map": "/Blockhouse_React_Tsx_Mui_LandingPage/static/js/main.314a3bfc.js.map",
     "787.3a39cd02.chunk.js.map": "/Blockhouse_React_Tsx_Mui_LandingPage/static/js/787.3a39cd02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c4488ac.css",
-    "static/js/main.6b458f6b.js"
+    "static/css/main.d24db14d.css",
+    "static/js/main.314a3bfc.js"
   ]
 }
